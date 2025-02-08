@@ -83,3 +83,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact 📧
 
 For inquiries or suggestions, please reach out at lungsomlamnio@gmail.com.
+
+## Screenshots 🖼️
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
