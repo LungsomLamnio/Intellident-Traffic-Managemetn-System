@@ -86,4 +86,5 @@ For inquiries or suggestions, please reach out at lungsomlamnio@gmail.com.
 
 ## Screenshots 🖼️
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![map with range](./map-image-1.jpeg)
+![map without range](./map-image-2.jpeg)
