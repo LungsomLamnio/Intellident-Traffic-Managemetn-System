@@ -7,8 +7,11 @@ import threading
 import webbrowser
 import os
 from tkinter import messagebox
+from dotenv import load_dotenv
 
-API_KEY = 'AIzaSyD5M6O9EEhMUKTOwbCUvKAwcimStjqXJms'  # Replace this with your actual API key
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
 
 
 def meters_to_degrees_latitude(meters):
